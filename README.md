@@ -10,15 +10,13 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 Information Collection and Use
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to n/a. The information that I request will be retained on your device and is not collected by me in any way.
-
 The app does use third party services that may collect information used to identify you.
 
 Link to privacy policy of third party service providers used by the app
 
 Data
 
-We do not collect any data from you other than login credentials and email address.  Your recipes will published will be available to be viewed and followed by other users of the app. 
+Our app do not collect any data from you other than login credentials and email address.  No personally identifiable information will be collected. Your recipes will published will be available to be viewed and followed by other users of the app. 
 
 Service Providers
 
